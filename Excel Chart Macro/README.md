@@ -12,28 +12,28 @@ The VBA code is available in text form [here](ChartCreator.bas). It can be added
 Here are some examples of chart definitions and their resulting charts. Note that these refer to templates, and the template declarations are below as well.
 
 ### Column and Line Chart
-![Example Column and Line Chart](<Example Column and Line Chart.png>)
+![Example Column and Line Chart](<images/Example Column and Line Chart.png>)
 
 ### Column and Line Chart with additional formatting
-![Example Column and Line Chart with Additional Formatting](<Example Column Line Chart Additional Formatting.png>)
+![Example Column and Line Chart with Additional Formatting](<images/Example Column Line Chart Additional Formatting.png>)
 
 ### Pie Chart
-![Example Pie Chart](<Example Pie Chart.png>)
+![Example Pie Chart](<images/Example Pie Chart.png>)
 
 ### 3D Pie Chart
-![Example 3D Pie Chart](<Example 3D Pie Chart.png>)
+![Example 3D Pie Chart](<images/Example 3D Pie Chart.png>)
 
 ### Chart Templates
-![Example Chart Template](<Example Chart Templates.png>)
+![Example Chart Template](<images/Example Chart Templates.png>)
 
 ### Series Templates - Columns
-![Example Series Template Columns](<Example Series Template Columns.png>)
+![Example Series Template Columns](<images/Example Series Template Columns.png>)
 
 ### Series Templates - Lines
-![Example Series Template Lines](<Example Series Template Lines.png>)
+![Example Series Template Lines](<images/Example Series Template Lines.png>)
 
 ### Point Templates
-![Example Point Templates](<Example Point Templates.png>)
+![Example Point Templates](<images/Example Point Templates.png>)
 
 ## Help
 The help is part of the [Excel Workbook](<Excel Chart Macro.xlsm>). Below is an excerp.
