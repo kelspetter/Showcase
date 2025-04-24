@@ -30,4 +30,4 @@ The pivot tables in this case are created on a separate sheet, Output.
 
 ## Help
 The help is part of the [Excel Workbook](<Excel Pivot Macro.xlsm>). Below is an excerp.
-![Help Excerp](<Help Excerp.png>)
+![Help Excerp](<images/Help Excerp.png>)
