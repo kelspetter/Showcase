@@ -37,4 +37,4 @@ Here are some examples of chart definitions and their resulting charts. Note tha
 
 ## Help
 The help is part of the [Excel Workbook](<Excel Chart Macro.xlsm>). Below is an excerp.
-![Help Excerp](<Help Excerp.png>)
+![Help Excerp](<images/Help Excerp.png>)
