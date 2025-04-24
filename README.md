@@ -9,3 +9,7 @@ This repository is here for me to showcase some of my skills and capabilities.
 
 ## [Excel Chart Creation Macro](<Excel Chart Macro>)
 ![Example Column and Line Chart](<Excel Chart Macro/images/Example Column and Line Chart.png>)
+
+## [Excel Pivot Creation Macro](<Excel Pivot Macro>)
+![Example Pivot Definition](<Excel Pivot Macro/images/Pivot Definition Short.png>)
+![Example Pivot Definition Output](<Excel Pivot Macro/images/Pivot Definition Output Short.png>)
